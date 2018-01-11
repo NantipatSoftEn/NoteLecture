@@ -14,16 +14,39 @@ Since my friends and I have group **blind** date with students from a women's un
  ฉันตื่น 7โมงเช้า เนื่องจากมีนัดกับเพื่อนของฉัน  และ ฉันมีกลุ่มกับ นักเรียนจาก women's university ในคืนนี้. ฉันใช้เวลาพิเศษเพื่อยให้ดูดีที่สุด. แม่เรียกฉันกินอาหารเช้า แต่ฉันไม่คิดว่าฉันทำได้ . นี้มัน 7:30 , ฉันไม่ต้องการไปสาย 9:00 class. ใช้เวลาประมาณหนึ่งชั่วโมงครึ่งถึงมหาวิทยาลัยของฉัน, ดังนั้นฉันเลยรีบออกไป
 
 8:00-9:00 a.m.: I take bus to *subway station*. There are so many people on the bus that I can't *breathe*. There is so much traffic that the bus can only *crawl* along. *Finally*, the bus arrives at the subway station
-*Unfortunately*
+*Unfortunately*  there are lot of people  on the trian, and the air is *stuffy*. We can finally arrive at Shinchon station and my university *is now about a ten-minute walk away*. I run to my *philiosophy*  class so I won't be late again. I have already missed this class fore times.
+
+ฉันขึ้นรถบัสไปยังสถานนีย่อยที่่นั้นคนเยอะ ฉันหายใจไม่ออก  ที่นั้น การจราจรเยอะเพราะมีรถบัสอย่างเดียว
+ในที่สุดรถบัสก็ถึงสถานนีย่อยน น่าเสียดายที่นั้นคนเยอะเต็มรถไฟ และอากาศก็อับชื่น
+สุดท้ายพวกเราก็ถึงสถานนี Shinchon  และ มหาวิทลัย ตอนนี้ อยู่ห่างไปสัก 10 นาที ฉันจะไม่สายอีกครั้ง
+ฉันพลาดไป4 ครั้งแล้ว
+
+9:00-11:00 a.m. Thank goodness I'am safe. The professor come in just after me. But now I'm so tired from running that I can't *concentrate*
+Then the person next to me arks what the homework is for our English class. That's right, *there was English homework*, but I forgot to do it ! So I spend philiosophy class doing my English homework.
+ดังนั้นฉันเลยใช้คาบปรัชญาทำีการบ้านภาษาอังกฤษ
+
+ขอบคุณพระเจ้า ฉันรอด อาจารย์เข้าหลังฉัน แต่ เหนื่อยมากกับการวิ่ง ไม่สามารถมีสามาธิเลย แล้วคนข้างๆ ก็ถามว่ามีการบ้านอะไรไหม ใช้แล้วว มีการบ้านภาษาอังกฤษ แต่ฉันลืม ! ทำมัน
 
 -----
 #### Memo
+concentrate = ตั้งสมาธิ
+philiosophy = ปรัชญา
+stuffy = อับชื้น
+lot of people  = คนเยอะ
+Unfortunately = น่าเสียดาย
+
 Finally = ในที่สุด
+
 crawl = ช้า คลาน
+
 breathe = หายใจ
+
 subway station = รถไฟใต้ดิน
+
 surrounding = ล้อมรอบ
+
 blind = ตาบอด
+
 estimate
 1. เป็น verb หมายถึงคำนวณ หรือ ประเมินค่าหรือราคาโดยประมาณ
   - She said it wasn't possible to estimate yet how much emissions would be reduced.  ()
