@@ -47,22 +47,37 @@ I am very tired but really happy hoping that things go well with her
 -----
 #### Memo
 dose =ให้ครั้งนึง
+
  wonderful = ยอดเยี่ยม
+
  also = ด้วยเหมือนกัน
+
 guts = กล้า
+
 awkward
+
 wonder =ประหลาดใจ
+
 excited =ตื่นเต้น
+
 hurry= รีบเร้ง
 for a while = สักพักนึง
+
 chit chat = คุยกันเล่น ๆ
+
  spend = V2 ใช้
+
 hanging  = ??
+
 decide = ตัดสินใจ
+
 concentrate = ตั้งสมาธิ
+
 philiosophy = ปรัชญา
+
 stuffy = อับชื้น
 lot of people  = คนเยอะ
+
 Unfortunately = น่าเสียดาย
 
 Finally = ในที่สุด
