@@ -43,7 +43,9 @@ go to my club room . Our club members spend their free time *hanging* out in tha
 
 I spend the evening with my partner having a won derful time .Right before we part , I ark for her phone number .If she give me her number that mean she *also* like me and *she Dose!*
  I get home about 10:30. I am very tired but really happy hoping that things go well with her
+
 I am very tired but really happy hoping that things go well with her
+
 -----
 #### Memo
 dose =ให้ครั้งนึง

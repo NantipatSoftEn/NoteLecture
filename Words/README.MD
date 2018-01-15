@@ -55,3 +55,26 @@ grandmother
 ancient
 gorgeous
 cups
+
+
+participle
+present
+bring
+giant
+advise
+delicious
+borrow
+broken down
+really lose
+imagine
+vacation
+deal
+dare
+unfortunately
+seat
+passenger
+wear
+mind
+would
+yesterday
+dare
