@@ -104,8 +104,7 @@ const Check_MonotoneSeq = (an) => (
         return Increasing
     else if (result <1)
         return Decreasing
-    break;
-
+    break
     case DERIVATIVE:
 
     f (x)diff = an
@@ -114,8 +113,6 @@ const Check_MonotoneSeq = (an) => (
     if(result > 0)
       return Increasing
     else if(result < Decreasing)
-      return Decreasing
-
     break;
     default:
   }
